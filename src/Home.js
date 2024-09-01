@@ -84,7 +84,7 @@
 
 // src/Home.js
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 
 function Home() {

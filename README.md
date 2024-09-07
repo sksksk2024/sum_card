@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# From this one I take efficient ways and practices to work with Tailwind CSS
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
